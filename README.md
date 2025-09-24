@@ -2,7 +2,7 @@
 
 Welcome to my professional portfolio.
 
-## 📄 My CV
+## 📄 My Resume
 [Download Samir Hassan Ali's resume](./Samir%20Hassan%20Ali%20-%20resume.pdf)
 
 ## 💼 Selected Projects
