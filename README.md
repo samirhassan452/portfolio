@@ -3,7 +3,7 @@
 Welcome to my professional portfolio.
 
 ## 📄 My CV
-[Download Samir Hassan's CV](./Samir%20Hassan%20-%20CV.pdf)
+[Download Samir Hassan Ali's resume](./Samir%20Hassan%20Ali%20-%20resume.pdf)
 
 ## 💼 Selected Projects
 
@@ -13,8 +13,8 @@ Welcome to my professional portfolio.
 - **Role:** Lead developer, handled app architecture and API integration.
 - 🔗 [App Store (Old App)](https://apps.apple.com/sa/app/momtathl-%D9%85%D9%85%D8%AA%D8%AB%D9%84/id6451137181)
 - 🔗 [Google Play (Old App)](https://play.google.com/store/apps/details?id=com.momra.momtathil&pcampaignid=web_share)
-- 🔗 [App Store (**Revamp**)](Coming Soon)
-- 🔗 [Google Play (**Revamp**)](Coming Soon) 
+- 🔗 [App Store (**Revamp**)](https://apps.apple.com/sa/app/%D9%85%D9%85%D8%AA%D8%AB%D9%84/id6739867839)
+- 🔗 [Google Play (**Revamp**)](https://play.google.com/store/apps/details?id=com.momah.unifiedapp&pcampaignid=web_share) 
 
 ### ✅ Balady
 - A municipal services app focused on urban sustainability in KSA.  
